@@ -1,5 +1,7 @@
 # vue2_vuex_axios
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/naokie/vue2_vuex_axios.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
